@@ -13,7 +13,7 @@ pub fn twelve_days_of_christmas() {
         "Four calling birds",
         "Three French hens",
         "Two turtle doves",
-        "And partridge in a pear tree",
+        "And a partridge in a pear tree",
     ];
 
     for i in 1..13 {
